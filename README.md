@@ -5,4 +5,4 @@
 - [x] Revised JSX
 - [x] Used Custom components
 - [x] Created context for switching theme
-- [x] Practiced useContex and useState hooks
+- [x] Practiced useContext and useState hooks
